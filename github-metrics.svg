@@ -37,30 +37,30 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 20 Sept 2023, 16:20:45
+Last generated: 20 Sept 2023, 17:16:16
 </div><div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Anyone-Developer</b> registered=2y, uid=0, gid=3820
   organization with <b>1</b> member
 </div>
-<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 19 repositories - 785 MB
+<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 20 repositories - 785 MB
 -r--  <b>   19</b>  stargazers
 -r--  <b>    5</b>  forks
--r--  <b>   24</b>  watchers
+-r--  <b>   25</b>  watchers
 dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>DART        </b> [#########           ] 42.43%
-<b>SWIFT       </b> [#####               ] 20.56%
-<b>JAVASCRIPT  </b> [####                ] 19.53%
-<b>TYPESCRIPT  </b> [###                 ] 11.68%
-<b>C#          </b> [#                   ] 3.96 %
-<b>DOCKERFILE  </b> [#                   ] 0.77 %
-<b>HCL         </b> [#                   ] 0.54 %
-<b>SHELL       </b> [#                   ] 0.53 %
+<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>DART        </b> [#########           ] 40.86%
+<b>SWIFT       </b> [####                ] 19.80%
+<b>JAVASCRIPT  </b> [####                ] 18.80%
+<b>TYPESCRIPT  </b> [###                 ] 11.25%
+<b>RUST        </b> [#                   ] 4.22 %
+<b>C#          </b> [#                   ] 3.81 %
+<b>DOCKERFILE  </b> [#                   ] 0.74 %
+<b>HCL         </b> [#                   ] 0.52 %
 </div>
 
 
-<footer>Connection reset by 237.47.144.147</footer></pre>
+<footer>Connection reset by 96.164.191.210</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
