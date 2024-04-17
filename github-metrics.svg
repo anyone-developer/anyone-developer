@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 17 Apr 2024, 10:26:00
+Last generated: 17 Apr 2024, 11:17:37
 </div><div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Anyone-Developer</b> registered=3y, uid=0, gid=3820
   organization with <b>1</b> member
 </div>
@@ -49,18 +49,18 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>DART        </b> [#########           ] 40.19%
-<b>SWIFT       </b> [####                ] 19.48%
-<b>JAVASCRIPT  </b> [####                ] 18.50%
-<b>TYPESCRIPT  </b> [###                 ] 11.07%
-<b>C#          </b> [##                  ] 5.39 %
-<b>RUST        </b> [#                   ] 4.14 %
-<b>DOCKERFILE  </b> [#                   ] 0.73 %
+<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>DART        </b> [#########           ] 40.09%
+<b>SWIFT       </b> [####                ] 19.43%
+<b>JAVASCRIPT  </b> [####                ] 18.45%
+<b>TYPESCRIPT  </b> [###                 ] 11.04%
+<b>C#          </b> [##                  ] 5.62 %
+<b>RUST        </b> [#                   ] 4.13 %
+<b>DOCKERFILE  </b> [#                   ] 0.72 %
 <b>HCL         </b> [#                   ] 0.51 %
 </div>
 
 
-<footer>Connection reset by 146.112.59.203</footer></pre>
+<footer>Connection reset by 164.46.30.53</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
