@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 14 May 2026, 12:49:14
+Last generated: 14 May 2026, 15:45:54
 </div><div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Anyone-Developer</b> registered=5y, uid=0, gid=3820
   organization with <b>1</b> member
 </div>
@@ -49,18 +49,18 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [#########           ] 43.18%
-<b>DART        </b> [#####               ] 24.68%
-<b>SWIFT       </b> [###                 ] 11.96%
-<b>JAVASCRIPT  </b> [###                 ] 11.73%
-<b>C#          </b> [#                   ] 3.49 %
-<b>RUST        </b> [#                   ] 2.54 %
-<b>CSS         </b> [#                   ] 1.63 %
-<b>SHELL       </b> [#                   ] 0.79 %
+<div class="stdin"><span class="ps1-path">anyone-developer@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [################    ] 78.22%
+<b>DART        </b> [##                  ] 8.04 %
+<b>SWIFT       </b> [#                   ] 3.90 %
+<b>JAVASCRIPT  </b> [#                   ] 3.76 %
+<b>PLPGSQL     </b> [#                   ] 2.47 %
+<b>CSS         </b> [#                   ] 1.64 %
+<b>C#          </b> [#                   ] 1.14 %
+<b>RUST        </b> [#                   ] 0.83 %
 </div>
 
 
-<footer>Connection reset by 199.38.117.29</footer></pre>
+<footer>Connection reset by 54.9.112.15</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
